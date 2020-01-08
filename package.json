@@ -1,0 +1,12 @@
+{
+  "name": "habit-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.35.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
